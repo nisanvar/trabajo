@@ -20,13 +20,13 @@ while True:
     if(contador<=3):
         n=str(input("dgite el nombre: "))
         c=int(input("digite la contraseña: "))
-        if (n=="Iñaki" and c==123123):
+        if (n=="iperurena" and c==123123):
             print("Iñaki Perurena")
             break
-        if (n=="Fermín" and c==654321):
+        if (n=="fmuguruza" and c==654321):
             print("Fermín Muguruza")
             break
-        if (n=="Aimar" and c==123456):
+        if (n=="aolaizola" and c==123456):
             print("Aimar Olaizola")
             break
         else:
